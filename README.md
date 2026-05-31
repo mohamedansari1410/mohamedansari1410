@@ -27,12 +27,6 @@ const mohamedAnsari = {
     "JavaScript",  "Git & GitHub",
   ],
 
-  currentlyLearning: [
-    "Salesforce Certified Platform Developer I",
-    "MuleSoft Certified Developer Level 1",
-    "Advanced Agentforce Customisation",
-  ],
-
   funFact:  "I built a real-time global error-handler that pings Slack " +
             "the instant any MuleSoft flow blows up — correlation ID and all 🔔",
 
