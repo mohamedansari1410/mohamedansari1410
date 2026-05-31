@@ -1,8 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Ansari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Salesforce%20%26%20MuleSoft%20Developer%20%7C%20Building%20Healthcare%20Platforms%20on%20the%20Cloud&descAlignY=62&descSize=16" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0176D3,00A1E0,005F8B&height=200&section=header&text=Mohamed%20Ansari&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Salesforce%20%26%20MuleSoft%20Developer%20%7C%20Building%20Healthcare%20Platforms%20on%20the%20Cloud&descAlignY=60&descSize=17" width="100%"/>
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Mohamed+Ansari+%F0%9F%91%8B;Salesforce+%26+MuleSoft+Developer;LWC+%7C+Apex+%7C+Agentforce+%7C+API-Led+Architecture;Building+Healthcare+Platforms+that+Scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I%27m+Mohamed+Ansari+%F0%9F%91%8B;Salesforce+%26+MuleSoft+Developer;LWC+%7C+Apex+%7C+Agentforce+%7C+API-Led+Architecture;Building+Healthcare+Platforms+that+Scale)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedansari1410&color=70a5fd&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedansari14/)
+[![Trailhead](https://img.shields.io/badge/Trailhead-Profile-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/mohamedansari14)
+[![GitHub](https://img.shields.io/badge/GitHub-mohamedansari1410-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamedansari1410)
 
 </div>
 
@@ -10,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```javascript
 const mohamedAnsari = {
@@ -46,38 +57,43 @@ const mohamedAnsari = {
 ![LWC](https://img.shields.io/badge/LWC-0176D3?style=flat-square&logo=salesforce&logoColor=white)
 ![Flows](https://img.shields.io/badge/Salesforce%20Flows-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![SOQL](https://img.shields.io/badge/SOQL-1798C1?style=flat-square&logo=salesforce&logoColor=white)
+![SOSL](https://img.shields.io/badge/SOSL-1798C1?style=flat-square&logo=salesforce&logoColor=white)
 ![Experience Cloud](https://img.shields.io/badge/Experience%20Cloud-0176D3?style=flat-square&logo=salesforce&logoColor=white)
 ![Agentforce](https://img.shields.io/badge/Agentforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Sales Cloud](https://img.shields.io/badge/Sales%20Cloud-1798C1?style=flat-square&logo=salesforce&logoColor=white)
+![VF Page](https://img.shields.io/badge/Visualforce-0176D3?style=flat-square&logo=salesforce&logoColor=white)
 
-### 🔗 Integration
+### 🔗 Integration & APIs
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-005F8B?style=flat-square&logo=mulesoft&logoColor=white)
 ![Anypoint Platform](https://img.shields.io/badge/Anypoint%20Platform-005F8B?style=flat-square&logo=mulesoft&logoColor=white)
 ![CloudHub](https://img.shields.io/badge/CloudHub-1B8FD2?style=flat-square&logo=mulesoft&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
-![FHIR](https://img.shields.io/badge/FHIR%2FABDM-E34F26?style=flat-square&logo=hl7&logoColor=white)
+![FHIR](https://img.shields.io/badge/FHIR%2FABDM-E34F26?style=flat-square&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack%20Alerts-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Groq AI](https://img.shields.io/badge/Groq%20AI-F55036?style=flat-square&logoColor=white)
 
 ### 💻 Development & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Groq AI](https://img.shields.io/badge/Groq%20AI-F55036?style=flat-square&logo=ai&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Copado](https://img.shields.io/badge/Copado-0066CC?style=flat-square&logo=salesforce&logoColor=white)
+![Anypoint Studio](https://img.shields.io/badge/Anypoint%20Studio-005F8B?style=flat-square&logo=mulesoft&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
+> ⚡ *Stats load once the profile repo is live and commits start flowing in*
+
 <div align="center">
 
 <a href="https://github.com/mohamedansari1410">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedansari1410&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Mohamed's GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamedansari1410&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&hide=contribs&rank_icon=github" alt="Mohamed's GitHub Stats"/>
 </a>
 <a href="https://github.com/mohamedansari1410">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedansari1410&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedansari1410&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
 </a>
 
 </div>
@@ -88,17 +104,7 @@ const mohamedAnsari = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohamedansari1410&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com?user=mohamedansari1410)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedansari1410&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/mohamedansari1410)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohamedansari1410&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10&excludeDaysLabel=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -108,7 +114,7 @@ const mohamedAnsari = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedansari1410&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/mohamedansari1410)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedansari1410&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=6&margin-h=6)](https://github.com/mohamedansari1410)
 
 </div>
 
@@ -151,25 +157,25 @@ const mohamedAnsari = {
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🏥 **[CarePoint Portal](https://github.com/mohamedansari1410)** | Salesforce Sales Cloud · Experience Cloud · LWC · Apex · MuleSoft · CloudHub · Groq AI · FHIR/ABDM · MySQL · Slack | Full-stack healthcare platform with AI-powered diagnostic triage · API-led integration via MuleSoft CloudHub · Global error-handling pipeline with real-time Slack alerts carrying correlation IDs · ABDM-compliant FHIR sync pushing clinical records to national infrastructure · End-to-end patient portal built on Experience Cloud |
+| 🏥 **[CarePoint Portal](https://github.com/mohamedansari1410)** | Salesforce Sales Cloud · Experience Cloud · LWC · Apex · MuleSoft · CloudHub · Groq AI · FHIR/ABDM · MySQL · Slack | Full-stack healthcare platform with AI-powered diagnostic triage · API-led integration on CloudHub · Global error-handling with real-time Slack alerts (correlation ID + flow name) · ABDM-compliant FHIR sync to national infrastructure · Complete patient portal on Experience Cloud |
 
 </div>
 
 ---
 
-## 🏅 Achievements
+## 🏅 Achievements & Certifications
 
 <div align="center">
 
 | | Achievement | Details |
 |:---:|:------------|:--------|
-| 🎖️ | **Copado Robotic Testing Certified** | Official Copado certification in AI-driven test automation |
+| 🎖️ | **Copado Robotic Testing Certified** | AI-driven automated testing on Salesforce DevOps pipelines |
 | 🤖 | **Copado AI Certification** | Certified in Copado's AI-powered DevOps platform for Salesforce |
 | ☕ | **Java Full Stack Certificate** | JSpiders Development Center — full-stack Java & web development |
-| 🌐 | **Web Development (Udemy)** | E-Certificate in modern web development fundamentals |
-| 🏥 | **Enterprise Healthcare POC** | Built Meditity & CarePoint Portal — end-to-end production-grade healthcare platforms on Salesforce + MuleSoft |
-| 🔔 | **Real-Time DevOps Tooling** | Architected centralized MuleSoft error-handling framework dispatching instant Slack alerts with full diagnostic context |
-| 🔗 | **National Health Integration** | Implemented HL7 FHIR API synchronizing clinical data to India's ABDM national infrastructure |
+| 🌐 | **Web Development — Udemy** | E-Certificate in modern web development fundamentals |
+| 🏥 | **Enterprise Healthcare POC** | Built Meditity & CarePoint Portal — production-grade platforms on Salesforce + MuleSoft |
+| 🔔 | **Real-Time DevOps Tooling** | Centralized MuleSoft error-handling framework with instant Slack diagnostic alerts |
+| 🔗 | **National Health Integration** | HL7 FHIR API syncing clinical data to India's ABDM national infrastructure |
 
 </div>
 
@@ -204,14 +210,14 @@ const mohamedAnsari = {
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamedansari14-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedansari14/)
-[![GitHub](https://img.shields.io/badge/GitHub-mohamedansari1410-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamedansari1410)
-[![Trailhead](https://img.shields.io/badge/Trailhead-mohamedansari14-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/mohamedansari14)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamedansari14-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedansari14/)
+[![GitHub](https://img.shields.io/badge/GitHub-mohamedansari1410-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedansari1410)
+[![Trailhead](https://img.shields.io/badge/Trailhead-mohamedansari14-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/mohamedansari14)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohamedansari1410&color=70a5fd&style=flat-square&label=Profile+Views)
+*"Automate the boring stuff. Architect the great stuff."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0176D3,00A1E0,005F8B&height=120&section=footer&animation=twinkling" width="100%"/>
